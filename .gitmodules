@@ -1,0 +1,3 @@
+[submodule "base3"]
+	path = base3
+	url = git@github.com:digital-cube/BASE.git
